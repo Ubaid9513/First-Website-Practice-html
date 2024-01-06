@@ -1,0 +1,149 @@
+.top{
+    width: 100%;
+    height:20% ;
+    background-color: bisque;
+    display: flex;
+}
+.a{
+    width: 20%;
+    height: auto;
+    background-color: white;
+    text-align: center;
+    padding-left: 40px;
+
+}
+
+.b{
+    width:60%;
+    height: auto;
+    background-color: white;
+    text-align: center;
+    
+    
+}
+
+.c{
+    width: 20%;
+    height: auto;
+    background-color: white;
+    text-align: center;
+    padding-right: 40px;
+}
+
+.nav table{
+    width: 100%;
+    height: 40px;
+    background-color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.slider{
+    width: 100%;
+    height: auto;
+    background-color:#fff;
+    display: flex;
+}
+
+.news1{
+    width: 30%;
+    height: auto;
+    background-color: #fff;
+}
+
+.news2{
+    width: 40%;
+    height: auto;
+    background-color: #fff;
+
+}
+
+.news3{
+    width: 30%;
+    height: auto;
+    background-color: #fff;
+
+}
+
+.news3 img{
+    float: right;
+    width: 15%;
+}
+
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+}
+
+.foot-er{
+    width: 20%;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.foot-er h1{
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.foot-er table{
+    color: #FFF;
+}
+
+.foot2{
+    width: 20%;
+    padding-left: 20px;
+    padding-top: 90px;
+}
+
+.foot2 table{
+    color: #FFF;
+}
+
+.foot2 h1{
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.foot3{
+    width: 20%;
+    padding-left: 0%;
+    padding-top: 10px;
+}
+
+.foot3 table{
+    color: #FFF;
+}
+
+.foot3 h1{
+    color: #FFF;
+}
+
+.foot4{
+    width: 20%;
+    padding-left: 0%;
+    padding-top: 10px;
+
+}
+
+.foot4 h1{
+    color: #FFF;
+}
+
+.foot4 table{
+    color: #FFF;
+}
+
+.{
+    align-items: center;
+    color: #FFF;
+    padding-top: 28%;
+    padding-bottom: 0%;
+    padding-right: 50%;
+}
+
